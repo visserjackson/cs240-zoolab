@@ -2,3 +2,4 @@
 3 polar bears
 1 snowy owls
 4 walruses
+3 arctic foxes
