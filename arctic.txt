@@ -4,3 +4,5 @@
 4 walruses
 3 arctic foxes
 5 baby seals
+6 penguins
+14 yaks
