@@ -3,3 +3,5 @@
 10 snowy owls
 4 walruses
 3 arctic foxes
+6 penguins
+14 yaks
